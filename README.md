@@ -48,7 +48,7 @@ To setup a local development environment:
 Create a virtual environment in which to install Python pip packages. With [virtualenv](https://pypi.python.org/pypi/virtualenv),
 ```bash
     python -m venv addressapi-env        # create a virtualenv
-    address-api\Scripts\activate.bat   # activate the Python virtualenv 
+    addressapi-env\Scripts\activate.bat   # activate the Python virtualenv 
 ```
 
 Install development dependencies,
