@@ -1,0 +1,7 @@
+python
+fastapi
+uvicorn
+sqlalchemy
+sqlalchemy-utils
+geopy
+django
